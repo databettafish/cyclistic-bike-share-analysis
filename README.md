@@ -29,7 +29,7 @@ Analyze how casual riders and members use Cyclistic bikes differently to inform 
 - Members ride consistently throughout the week, especially weekdays
 
 ## Visualization
-![Bike Usage by Day](bike_usage_by_day.png)
+![Bike Usage by Day](figures/bike_usage_by_day.png)
 
 ## Recommendations
 - Offer weekend-focused membership promotions
@@ -38,9 +38,9 @@ Analyze how casual riders and members use Cyclistic bikes differently to inform 
 
 ## Files in This Repository
 - `CaseStudy1_BikeShare.pdf` – Full written case study
-- `cyclistic_analysis.ipynb` – Data cleaning and analysis code
-- `summary.csv` – Aggregated results
-- `bike_usage_by_day.png` – Visualization
+- `notebooks/cyclistic_analysis.ipynb` – Data cleaning and analysis code
+- `data/summary.csv` – Aggregated results
+- `figures/bike_usage_by_day.png` – Visualization
 
 ## How to Reproduce
 1. Download the dataset from Divvy
